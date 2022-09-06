@@ -2,6 +2,7 @@
 Code associated with manuscript entitled, Mapping tropical forest functional variation at satellite remote sensing resolutions depends on key traits. 
 
 This repository includes an R script to organize, resample, and merge data for application of PCA and k-means clustering code using the Danum Valley site data as an example. The same code can be used with the Sepilok data. 
+- The script is also hosted in a Zenodo data repository under DOI: XX; [URL]
 
 ## Data Availability 
 The data associated with this manuscript and used in this script are published on Zenodo via the Global Airborne Observatory account and can be found via the searchable DOIs cited below. 
